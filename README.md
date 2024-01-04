@@ -9,4 +9,4 @@
 2. Написати JUnit-тести для перевірки працездатності УСІХ методів та
 виключних ситуацій.
 
-Нові класи, створені до 8 лабораторної: WagonListTest, WagonOverloadedException, WagonConstructorTest
+Нові класи, створені до 8 лабораторної: WagonListTest, WagonOverloadedException, EconomyClassWagonConstructorTest
